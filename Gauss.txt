@@ -1,0 +1,1 @@
+Calculador de raíces de un polinomio ordenado y completo, con el método Gauss
