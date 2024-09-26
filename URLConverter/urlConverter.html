@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>URL Converter | Ariel Manto</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="urlConverter.css">
+</head>
+<body>
+    <div class="container">
+        <div class="wrapper">
+            <h1>URL Converter</h1>
+            <form>
+                <input type="text" name="input" placeholder="ASCII Encoded URL">
+                <input type="text" class="output" placeholder="Normalized URL" disabled="true">
+                <div class="botones">
+                    <button class="boton">Convert</button>
+                    <div class="boton">
+                        <div id="botonCopiar">
+                            <i class="material-icons">content_copy</i>
+                        </div>
+                        <div><p>Copy to clipboard</p></div>
+                </div>
+            </form>
+        </div>
+        <h3>Explanation</h3>
+        <p>
+            Sometimes the URL characters need to be encoded in ASCII format to prevent the program from interpreting it as an instruction or cutting the URL.
+            For example, a space in the URL is indicated with a '%20', '+' as '%2B', '@' as '%40', etc.</p>
+            <p>This tool allows you to translate the ASCII code in an URL to the respective value. It is useful for normalizing the URL.</p>
+        <h3>Example</h3>
+        <ul>
+            <li><p>ASCII Encoded URL:</p><p>https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript%2FGuide%2FControl%5Fflow%5Fand%5Ferror%5Fhandling</p></li>
+            <li><p>Normalized URL:</p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling</a></p></li>
+        </ul>
+        <a href="https://www.w3schools.com/tags/ref_urlencode.asp" class="ref">(For more information on ASCII encoding click here)</a>
+        
+
+    </div>
+    <script src="urlConverter.js"></script>
+</body>
+</html>

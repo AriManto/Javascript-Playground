@@ -1,0 +1,898 @@
+[
+  {
+    "code": "%20",
+    "value": " "
+  },
+  {
+    "code": "%21",
+    "value": "!"
+  },
+  {
+    "code": "%22",
+    "value": "\""
+  },
+  {
+    "code": "%23",
+    "value": "#"
+  },
+  {
+    "code": "%24",
+    "value": "$"
+  },
+  {
+    "code": "%25",
+    "value": "%"
+  },
+  {
+    "code": "%26",
+    "value": "&"
+  },
+  {
+    "code": "%27",
+    "value": "'"
+  },
+  {
+    "code": "%28",
+    "value": "("
+  },
+  {
+    "code": "%29",
+    "value": ")"
+  },
+  {
+    "code": "%2A",
+    "value": "*"
+  },
+  {
+    "code": "%2B",
+    "value": "+"
+  },
+  {
+    "code": "%2C",
+    "value": ","
+  },
+  {
+    "code": "%2D",
+    "value": "-"
+  },
+  {
+    "code": "%2E",
+    "value": "."
+  },
+  {
+    "code": "%2F",
+    "value": "/"
+  },
+  {
+    "code": "%30",
+    "value": "0"
+  },
+  {
+    "code": "%31",
+    "value": "1"
+  },
+  {
+    "code": "%32",
+    "value": "2"
+  },
+  {
+    "code": "%33",
+    "value": "3"
+  },
+  {
+    "code": "%34",
+    "value": "4"
+  },
+  {
+    "code": "%35",
+    "value": "5"
+  },
+  {
+    "code": "%36",
+    "value": "6"
+  },
+  {
+    "code": "%37",
+    "value": "7"
+  },
+  {
+    "code": "%38",
+    "value": "8"
+  },
+  {
+    "code": "%39",
+    "value": "9"
+  },
+  {
+    "code": "%3A",
+    "value": ":"
+  },
+  {
+    "code": "%3B",
+    "value": ";"
+  },
+  {
+    "code": "%3C",
+    "value": "<"
+  },
+  {
+    "code": "%3D",
+    "value": "="
+  },
+  {
+    "code": "%3E",
+    "value": ">"
+  },
+  {
+    "code": "%3F",
+    "value": "?"
+  },
+  {
+    "code": "%40",
+    "value": "@"
+  },
+  {
+    "code": "%41",
+    "value": "A"
+  },
+  {
+    "code": "%42",
+    "value": "B"
+  },
+  {
+    "code": "%43",
+    "value": "C"
+  },
+  {
+    "code": "%44",
+    "value": "D"
+  },
+  {
+    "code": "%45",
+    "value": "E"
+  },
+  {
+    "code": "%46",
+    "value": "F"
+  },
+  {
+    "code": "%47",
+    "value": "G"
+  },
+  {
+    "code": "%48",
+    "value": "H"
+  },
+  {
+    "code": "%49",
+    "value": "I"
+  },
+  {
+    "code": "%4A",
+    "value": "J"
+  },
+  {
+    "code": "%4B",
+    "value": "K"
+  },
+  {
+    "code": "%4C",
+    "value": "L"
+  },
+  {
+    "code": "%4D",
+    "value": "M"
+  },
+  {
+    "code": "%4E",
+    "value": "N"
+  },
+  {
+    "code": "%4F",
+    "value": "O"
+  },
+  {
+    "code": "%50",
+    "value": "P"
+  },
+  {
+    "code": "%51",
+    "value": "Q"
+  },
+  {
+    "code": "%52",
+    "value": "R"
+  },
+  {
+    "code": "%53",
+    "value": "S"
+  },
+  {
+    "code": "%54",
+    "value": "T"
+  },
+  {
+    "code": "%55",
+    "value": "U"
+  },
+  {
+    "code": "%56",
+    "value": "V"
+  },
+  {
+    "code": "%57",
+    "value": "W"
+  },
+  {
+    "code": "%58",
+    "value": "X"
+  },
+  {
+    "code": "%59",
+    "value": "Y"
+  },
+  {
+    "code": "%5A",
+    "value": "Z"
+  },
+  {
+    "code": "%5B",
+    "value": "["
+  },
+  {
+    "code": "%5C",
+    "value": "\\"
+  },
+  {
+    "code": "%5D",
+    "value": "]"
+  },
+  {
+    "code": "%5E",
+    "value": "^"
+  },
+  {
+    "code": "%5F",
+    "value": "_"
+  },
+  {
+    "code": "%60",
+    "value": "`"
+  },
+  {
+    "code": "%61",
+    "value": "a"
+  },
+  {
+    "code": "%62",
+    "value": "b"
+  },
+  {
+    "code": "%63",
+    "value": "c"
+  },
+  {
+    "code": "%64",
+    "value": "d"
+  },
+  {
+    "code": "%65",
+    "value": "e"
+  },
+  {
+    "code": "%66",
+    "value": "f"
+  },
+  {
+    "code": "%67",
+    "value": "g"
+  },
+  {
+    "code": "%68",
+    "value": "h"
+  },
+  {
+    "code": "%69",
+    "value": "i"
+  },
+  {
+    "code": "%6A",
+    "value": "j"
+  },
+  {
+    "code": "%6B",
+    "value": "k"
+  },
+  {
+    "code": "%6C",
+    "value": "l"
+  },
+  {
+    "code": "%6D",
+    "value": "m"
+  },
+  {
+    "code": "%6E",
+    "value": "n"
+  },
+  {
+    "code": "%6F",
+    "value": "o"
+  },
+  {
+    "code": "%70",
+    "value": "p"
+  },
+  {
+    "code": "%71",
+    "value": "q"
+  },
+  {
+    "code": "%72",
+    "value": "r"
+  },
+  {
+    "code": "%73",
+    "value": "s"
+  },
+  {
+    "code": "%74",
+    "value": "t"
+  },
+  {
+    "code": "%75",
+    "value": "u"
+  },
+  {
+    "code": "%76",
+    "value": "v"
+  },
+  {
+    "code": "%77",
+    "value": "w"
+  },
+  {
+    "code": "%78",
+    "value": "x"
+  },
+  {
+    "code": "%79",
+    "value": "y"
+  },
+  {
+    "code": "%7A",
+    "value": "z"
+  },
+  {
+    "code": "%7B",
+    "value": "{"
+  },
+  {
+    "code": "%7C",
+    "value": "|"
+  },
+  {
+    "code": "%7D",
+    "value": "}"
+  },
+  {
+    "code": "%7E",
+    "value": "~"
+  },
+  {
+    "code": "%7F",
+    "value": " "
+  },
+  {
+    "code": "%80",
+    "value": "`"
+  },
+  {
+    "code": "%81",
+    "value": ""
+  },
+  {
+    "code": "%82",
+    "value": "‚"
+  },
+  {
+    "code": "%83",
+    "value": "ƒ"
+  },
+  {
+    "code": "%84",
+    "value": "„"
+  },
+  {
+    "code": "%85",
+    "value": "…"
+  },
+  {
+    "code": "%86",
+    "value": "†"
+  },
+  {
+    "code": "%87",
+    "value": "‡"
+  },
+  {
+    "code": "%88",
+    "value": "ˆ"
+  },
+  {
+    "code": "%89",
+    "value": "‰"
+  },
+  {
+    "code": "%8A",
+    "value": "Š"
+  },
+  {
+    "code": "%8B",
+    "value": "‹"
+  },
+  {
+    "code": "%8C",
+    "value": "Œ"
+  },
+  {
+    "code": "%8D",
+    "value": ""
+  },
+  {
+    "code": "%8E",
+    "value": "Ž"
+  },
+  {
+    "code": "%8F",
+    "value": ""
+  },
+  {
+    "code": "%90",
+    "value": ""
+  },
+  {
+    "code": "%91",
+    "value": "‘"
+  },
+  {
+    "code": "%92",
+    "value": "’"
+  },
+  {
+    "code": "%93",
+    "value": "“"
+  },
+  {
+    "code": "%94",
+    "value": "”"
+  },
+  {
+    "code": "%95",
+    "value": "•"
+  },
+  {
+    "code": "%96",
+    "value": "–"
+  },
+  {
+    "code": "%97",
+    "value": "—"
+  },
+  {
+    "code": "%98",
+    "value": "˜"
+  },
+  {
+    "code": "%99",
+    "value": "™"
+  },
+  {
+    "code": "%9A",
+    "value": "š"
+  },
+  {
+    "code": "%9B",
+    "value": "›"
+  },
+  {
+    "code": "%9C",
+    "value": "œ"
+  },
+  {
+    "code": "%9D",
+    "value": ""
+  },
+  {
+    "code": "%9E",
+    "value": "ž"
+  },
+  {
+    "code": "%9F",
+    "value": "Ÿ"
+  },
+  {
+    "code": "%A0",
+    "value": " "
+  },
+  {
+    "code": "%A1",
+    "value": "¡"
+  },
+  {
+    "code": "%A2",
+    "value": "¢"
+  },
+  {
+    "code": "%A3",
+    "value": "£"
+  },
+  {
+    "code": "%A4",
+    "value": "¤"
+  },
+  {
+    "code": "%A5",
+    "value": "¥"
+  },
+  {
+    "code": "%A6",
+    "value": "¦"
+  },
+  {
+    "code": "%A7",
+    "value": "§"
+  },
+  {
+    "code": "%A8",
+    "value": "¨"
+  },
+  {
+    "code": "%A9",
+    "value": "©"
+  },
+  {
+    "code": "%AA",
+    "value": "ª"
+  },
+  {
+    "code": "%AB",
+    "value": "«"
+  },
+  {
+    "code": "%AC",
+    "value": "¬"
+  },
+  {
+    "code": "%AD",
+    "value": "­"
+  },
+  {
+    "code": "%AE",
+    "value": "®"
+  },
+  {
+    "code": "%AF",
+    "value": "¯"
+  },
+  {
+    "code": "%B0",
+    "value": "°"
+  },
+  {
+    "code": "%B1",
+    "value": "±"
+  },
+  {
+    "code": "%B2",
+    "value": "²"
+  },
+  {
+    "code": "%B3",
+    "value": "³"
+  },
+  {
+    "code": "%B4",
+    "value": "´"
+  },
+  {
+    "code": "%B5",
+    "value": "µ"
+  },
+  {
+    "code": "%B6",
+    "value": "¶"
+  },
+  {
+    "code": "%B7",
+    "value": "·"
+  },
+  {
+    "code": "%B8",
+    "value": "¸"
+  },
+  {
+    "code": "%B9",
+    "value": "¹"
+  },
+  {
+    "code": "%BA",
+    "value": "º"
+  },
+  {
+    "code": "%BB",
+    "value": "»"
+  },
+  {
+    "code": "%BC",
+    "value": "¼"
+  },
+  {
+    "code": "%BD",
+    "value": "½"
+  },
+  {
+    "code": "%BE",
+    "value": "¾"
+  },
+  {
+    "code": "%BF",
+    "value": "¿"
+  },
+  {
+    "code": "%C0",
+    "value": "À"
+  },
+  {
+    "code": "%C1",
+    "value": "Á"
+  },
+  {
+    "code": "%C2",
+    "value": "Â"
+  },
+  {
+    "code": "%C3",
+    "value": "Ã"
+  },
+  {
+    "code": "%C4",
+    "value": "Ä"
+  },
+  {
+    "code": "%C5",
+    "value": "Å"
+  },
+  {
+    "code": "%C6",
+    "value": "Æ"
+  },
+  {
+    "code": "%C7",
+    "value": "Ç"
+  },
+  {
+    "code": "%C8",
+    "value": "È"
+  },
+  {
+    "code": "%C9",
+    "value": "É"
+  },
+  {
+    "code": "%CA",
+    "value": "Ê"
+  },
+  {
+    "code": "%CB",
+    "value": "Ë"
+  },
+  {
+    "code": "%CC",
+    "value": "Ì"
+  },
+  {
+    "code": "%CD",
+    "value": "Í"
+  },
+  {
+    "code": "%CE",
+    "value": "Î"
+  },
+  {
+    "code": "%CF",
+    "value": "Ï"
+  },
+  {
+    "code": "%D0",
+    "value": "Ð"
+  },
+  {
+    "code": "%D1",
+    "value": "Ñ"
+  },
+  {
+    "code": "%D2",
+    "value": "Ò"
+  },
+  {
+    "code": "%D3",
+    "value": "Ó"
+  },
+  {
+    "code": "%D4",
+    "value": "Ô"
+  },
+  {
+    "code": "%D5",
+    "value": "Õ"
+  },
+  {
+    "code": "%D6",
+    "value": "Ö"
+  },
+  {
+    "code": "%D7",
+    "value": "×"
+  },
+  {
+    "code": "%D8",
+    "value": "Ø"
+  },
+  {
+    "code": "%D9",
+    "value": "Ù"
+  },
+  {
+    "code": "%DA",
+    "value": "Ú"
+  },
+  {
+    "code": "%DB",
+    "value": "Û"
+  },
+  {
+    "code": "%DC",
+    "value": "Ü"
+  },
+  {
+    "code": "%DD",
+    "value": "Ý"
+  },
+  {
+    "code": "%DE",
+    "value": "Þ"
+  },
+  {
+    "code": "%DF",
+    "value": "ß"
+  },
+  {
+    "code": "%E0",
+    "value": "à"
+  },
+  {
+    "code": "%E1",
+    "value": "á"
+  },
+  {
+    "code": "%E2",
+    "value": "â"
+  },
+  {
+    "code": "%E3",
+    "value": "ã"
+  },
+  {
+    "code": "%E4",
+    "value": "ä"
+  },
+  {
+    "code": "%E5",
+    "value": "å"
+  },
+  {
+    "code": "%E6",
+    "value": "æ"
+  },
+  {
+    "code": "%E7",
+    "value": "ç"
+  },
+  {
+    "code": "%E8",
+    "value": "è"
+  },
+  {
+    "code": "%E9",
+    "value": "é"
+  },
+  {
+    "code": "%EA",
+    "value": "ê"
+  },
+  {
+    "code": "%EB",
+    "value": "ë"
+  },
+  {
+    "code": "%EC",
+    "value": "ì"
+  },
+  {
+    "code": "%ED",
+    "value": "í"
+  },
+  {
+    "code": "%EE",
+    "value": "î"
+  },
+  {
+    "code": "%EF",
+    "value": "ï"
+  },
+  {
+    "code": "%F0",
+    "value": "ð"
+  },
+  {
+    "code": "%F1",
+    "value": "ñ"
+  },
+  {
+    "code": "%F2",
+    "value": "ò"
+  },
+  {
+    "code": "%F3",
+    "value": "ó"
+  },
+  {
+    "code": "%F4",
+    "value": "ô"
+  },
+  {
+    "code": "%F5",
+    "value": "õ"
+  },
+  {
+    "code": "%F6",
+    "value": "ö"
+  },
+  {
+    "code": "%F7",
+    "value": "÷"
+  },
+  {
+    "code": "%F8",
+    "value": "ø"
+  },
+  {
+    "code": "%F9",
+    "value": "ù"
+  },
+  {
+    "code": "%FA",
+    "value": "ú"
+  },
+  {
+    "code": "%FB",
+    "value": "û"
+  },
+  {
+    "code": "%FC",
+    "value": "ü"
+  },
+  {
+    "code": "%FD",
+    "value": "ý"
+  },
+  {
+    "code": "%FE",
+    "value": "þ"
+  },
+  {
+    "code": "%FF",
+    "value": "ÿ"
+  }
+]
