@@ -37,11 +37,14 @@ let CP = 1;
 boton.addEventListener("click", function (e) {
   e.preventDefault();
   polinomio.length = 0; //Clear del array
-  //if (validar()){
   Gauss();
-  //} else {
-  // // Manejo de error
-  //}
+});
+document.addEventListener("keydown", function (e) {
+  if (e.key == "Enter") {
+    e.preventDefault();
+    polinomio.length = 0;
+    Gauss();
+  }
 });
 
 function Gauss() {
